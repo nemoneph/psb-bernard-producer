@@ -28,8 +28,8 @@
         "prooph/psb-bernard-dispatcher": "*"
     },
     "require": {
-        "php": "~5.5|~7.0",
-        "prooph/common": "^3.5",
+        "php": "~5.5|~7.1",
+        "prooph/common": "^4.0.0",
         "bernard/bernard": "1.0.*@dev"
     },
     "require-dev": {
